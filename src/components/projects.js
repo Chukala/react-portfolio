@@ -100,7 +100,7 @@ class Projects extends Component {
             DreamShop project is a dynamic and responsive ecommerce site Developed by EJS/CSS3/NodeJs/MongoDB/Express/JS for the purpose of scool project.
           </CardText>
           <CardActions border>
-          <Button colored><a href="https://github.com/Chukala/dreamShop_sileshi"rel="noopener noreferrer" target="_blank" style={{cursor: 'pointer', textDecoration: 'none'}}>GitHub</a></Button> 
+          <Button colored><a href="https://github.com/Chukala/dreamshop"rel="noopener noreferrer" target="_blank" style={{cursor: 'pointer', textDecoration: 'none'}}>GitHub</a></Button> 
           </CardActions>
           <CardMenu style={{color: '#fff'}}>
             <IconButton name="share" />

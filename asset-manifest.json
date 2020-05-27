@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.2ceee253.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.6640db27.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.6640db27.chunk.js.map",
+    "main.js": "/react-portfolio/static/js/main.c98384d9.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.c98384d9.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.45267219.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.45267219.js.map",
     "static/css/2.559fd73f.chunk.css": "/react-portfolio/static/css/2.559fd73f.chunk.css",
-    "static/js/2.af4c71eb.chunk.js": "/react-portfolio/static/js/2.af4c71eb.chunk.js",
-    "static/js/2.af4c71eb.chunk.js.map": "/react-portfolio/static/js/2.af4c71eb.chunk.js.map",
+    "static/js/2.092e347f.chunk.js": "/react-portfolio/static/js/2.092e347f.chunk.js",
+    "static/js/2.092e347f.chunk.js.map": "/react-portfolio/static/js/2.092e347f.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "precache-manifest.26d205f9d29f16fa20af49678830edca.js": "/react-portfolio/precache-manifest.26d205f9d29f16fa20af49678830edca.js",
+    "precache-manifest.e69249671c39d567fd069c6f1f5a08c8.js": "/react-portfolio/precache-manifest.e69249671c39d567fd069c6f1f5a08c8.js",
     "service-worker.js": "/react-portfolio/service-worker.js",
     "static/css/2.559fd73f.chunk.css.map": "/react-portfolio/static/css/2.559fd73f.chunk.css.map",
     "static/css/main.2ceee253.chunk.css.map": "/react-portfolio/static/css/main.2ceee253.chunk.css.map",
-    "static/js/2.af4c71eb.chunk.js.LICENSE": "/react-portfolio/static/js/2.af4c71eb.chunk.js.LICENSE",
+    "static/js/2.092e347f.chunk.js.LICENSE": "/react-portfolio/static/js/2.092e347f.chunk.js.LICENSE",
     "static/media/dreamShop_1.png": "/react-portfolio/static/media/dreamShop_1.b776de20.png",
     "static/media/fragbite.png": "/react-portfolio/static/media/fragbite.da8ef97b.png",
     "static/media/googleMerchandise.png": "/react-portfolio/static/media/googleMerchandise.369768c5.png",
@@ -32,8 +32,8 @@
   "entrypoints": [
     "static/js/runtime-main.45267219.js",
     "static/css/2.559fd73f.chunk.css",
-    "static/js/2.af4c71eb.chunk.js",
+    "static/js/2.092e347f.chunk.js",
     "static/css/main.2ceee253.chunk.css",
-    "static/js/main.6640db27.chunk.js"
+    "static/js/main.c98384d9.chunk.js"
   ]
 }

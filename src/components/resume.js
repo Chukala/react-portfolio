@@ -45,7 +45,7 @@ I'm a highly motivated web developer living in Stockholm, Sweden. I'm currently 
             <Education
               startYear={2018}
               endYear={2020}
-              schoolName="Chagemaker Education"
+              schoolName="Changemaker Education"
               schoolDescription="Webbutvecklare E-handel in Stockholm,Sweden"
                />
 

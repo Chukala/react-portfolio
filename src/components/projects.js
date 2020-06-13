@@ -52,8 +52,8 @@ class Projects extends Component {
              PL is an ecommerce site to sell pure leather products. It's developed by ReactJs | Materialized UI | NodeJs | ExpressJS | MongoDB | Stripe.
             </CardText>
             <CardActions border>
-              <Button colored><a href="https://github.com/Chukala/PL_FRONTEND_REACT/tree/master"rel="noopener noreferrer" target="_blank" style={{cursor: 'pointer', textDecoration: 'none'}}>GitHub</a></Button> 
-              <Button colored><a href="https://chukala.github.io/PL_FRONTEND_REACT/"rel="noopener noreferrer" target="_blank" style={{cursor: 'pointer', textDecoration: 'none'}}>Live Demo</a></Button> 
+              <Button colored><a href="https://github.com/Chukala/ethioLeather/tree/master"rel="noopener noreferrer" target="_blank" style={{cursor: 'pointer', textDecoration: 'none'}}>GitHub</a></Button> 
+              <Button colored><a href="https://chukala.github.io/ethioLeather/"rel="noopener noreferrer" target="_blank" style={{cursor: 'pointer', textDecoration: 'none'}}>Live Demo</a></Button> 
             </CardActions>
             <CardMenu style={{color: '#fff'}}>
               <IconButton name="share" />
